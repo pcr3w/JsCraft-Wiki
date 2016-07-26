@@ -25,6 +25,7 @@ com.pcr3w.jscraft.minecraft.item.tool
 com.pcr3w.jscraft.minecraft.language
 com.pcr3w.jscraft.minecraft.mod
 com.pcr3w.jscraft.minecraft.nbt
+com.pcr3w.jscraft.minecraft.plugin
 com.pcr3w.jscraft.minecraft.util
 com.pcr3w.jscraft.minecraft.world
 com.pcr3w.jscraft.minecraft.world.biome
