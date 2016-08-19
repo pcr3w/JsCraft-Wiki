@@ -6,12 +6,14 @@ com.pcr3w.jscraft.minecraft.chat.command
 com.pcr3w.jscraft.minecraft.crafting
 com.pcr3w.jscraft.minecraft.entity
 com.pcr3w.jscraft.minecraft.entity.boss
+com.pcr3w.jscraft.minecraft.entity.dynamic
 com.pcr3w.jscraft.minecraft.entity.effect
 com.pcr3w.jscraft.minecraft.entity.item
 com.pcr3w.jscraft.minecraft.entity.monster
 com.pcr3w.jscraft.minecraft.entity.passive
 com.pcr3w.jscraft.minecraft.entity.player
 com.pcr3w.jscraft.minecraft.entity.player.inventory
+com.pcr3w.jscraft.minecraft.entity.render
 com.pcr3w.jscraft.minecraft.event
 com.pcr3w.jscraft.minecraft.event.entity
 com.pcr3w.jscraft.minecraft.event.player
@@ -25,6 +27,7 @@ com.pcr3w.jscraft.minecraft.item.tool
 com.pcr3w.jscraft.minecraft.language
 com.pcr3w.jscraft.minecraft.mod
 com.pcr3w.jscraft.minecraft.nbt
+com.pcr3w.jscraft.minecraft.particle
 com.pcr3w.jscraft.minecraft.plugin
 com.pcr3w.jscraft.minecraft.util
 com.pcr3w.jscraft.minecraft.world
